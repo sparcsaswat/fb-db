@@ -1,0 +1,12 @@
+For Restoring MongoDb
+
+1. Install mongodb software of version 4.0
+
+2. After Successfull installation of mongodb software. Then go to the path where mongodb is installed
+for e.g  C:\Program Files\MongoDB\Server\4.0\bin  and keep the given dump file in that location.
+
+3. Then open the command prompt in adminstrator mode and navigate to the following path where the dump file is kept.
+
+4 Then type the command as mongorestore enter
+
+5. database will be restored successfully.
